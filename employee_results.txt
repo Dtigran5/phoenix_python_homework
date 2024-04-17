@@ -1,0 +1,10 @@
+Average Age of Employees: 34.6
+Employee Count by Department:
+Sales: 4
+IT: 1
+Marketing: 4
+Engineering: 5
+Human Resources: 2
+Finance: 4
+Oldest Employee: Sarah, Age: 45, Department: Engineering
+Youngest Employee: Mary, Age: 26, Department: IT
